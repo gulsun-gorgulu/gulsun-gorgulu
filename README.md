@@ -7,4 +7,5 @@ Hi, I am Gülsün 👋
 👾 I love technology, sports, reading and learning new things.
 
 Bağlantılar
-[Linkedln]https://www.linkedin.com/in/g%C3%BCls%C3%BCn-g%C3%B6rg%C3%BCl%C3%BC-9904601bb/
+
+https://www.linkedin.com/in/g%C3%BCls%C3%BCn-g%C3%B6rg%C3%BCl%C3%BC-9904601bb/
